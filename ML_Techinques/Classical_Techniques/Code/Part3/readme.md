@@ -1,1 +1,0 @@
-## Make Sure to download the ReducedMNIST Images from this link `https://www.kaggle.com/datasets/mohamedgamal07/reduced-mnist` and put the Training and Test Folders Both in the same path as `Pipeline1.py`
